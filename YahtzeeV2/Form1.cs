@@ -134,6 +134,7 @@ namespace YahtzeeV2
         {
             diceRoll();
             GetResult();
+            ResultReset();
         }
     }
 }
